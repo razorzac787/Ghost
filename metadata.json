@@ -1,0 +1,8 @@
+{
+  "name": "Ghost Data Still Exists - Deletion Audit Platform",
+  "description": "AI-powered deletion audit agent & compliance platform that audits customer data across databases, backups, search indexes, analytics, and data pipelines to verify true deletion and plan ordered remediation.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
